@@ -24,7 +24,7 @@ paginatePath = "page"
 author = "j-k"
 subtitle = "This is my personal webpage"
 description = "Personal webpage"
-welcomeMessage = "Oh What a brutal World!"
+welcomeMessage = "What a sad world!"
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 coverColor = "blue"
@@ -41,11 +41,11 @@ repo = ""
 owner = ""
 
 [params.social]
-weibo = "onevcat"
-github = "onevcat"
-twitter = "onevcat"
-gplus = "107108267983477358170"
-mail = "onev@onevcat.com"
+#weibo = "onevcat"
+github = "j-k"
+#twitter = "onevcat"
+#gplus = "107108267983477358170"
+mail = "jk.online.2018@gmail.com"
 
 [params.ga]
 ID = "your_ga_id"
