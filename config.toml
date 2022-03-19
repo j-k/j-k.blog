@@ -21,10 +21,10 @@ paginatePath = "page"
     tag = "tags"
     
 [params]
-author = "onevcat"
-subtitle = "A blog-orientation theme for Hugo"
-description = "Vno Hugo is a port of Vno Jekyll."
-welcomeMessage = "Oh What a World"
+author = "j-k"
+subtitle = "This is my personal webpage"
+description = "Personal webpage"
+welcomeMessage = "Oh What a brutal World!"
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 coverColor = "blue"
